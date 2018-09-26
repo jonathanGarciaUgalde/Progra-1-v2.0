@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537593168 source:/home/roy/Server2/main.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
