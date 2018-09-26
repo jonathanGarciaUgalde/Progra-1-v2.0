@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1470443466 source:c:\users\josué\desktop\c++\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1470439979 c:\users\josué\desktop\c++\linkedlist\include\linkedlist.h
+	"Node.h"
+	<cstddef>
+
+1470440020 c:\users\josué\desktop\c++\linkedlist\include\node.h
+	<cstddef>
+
+1470444286 source:c:\users\josué\desktop\c++\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470440040 source:c:\users\josué\desktop\c++\linkedlist\src\node.cpp
+	"Node.h"
+	<cstddef>
+
+1470975883 source:c:\users\josué\desktop\linkedlist\main.cpp
+	<iostream>
+	"DLinkedList.h"
+
+1470929138 c:\users\josué\desktop\linkedlist\include\linkedlist.h
+	"Node.h"
+	<cstddef>
+
+1470461622 c:\users\josué\desktop\linkedlist\include\node.h
+	<cstddef>
+
+1470936946 source:c:\users\josué\desktop\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470461642 source:c:\users\josué\desktop\linkedlist\src\node.cpp
+	"Node.h"
+	<cstddef>
+
+1470975860 source:c:\users\josué\desktop\linkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470975115 c:\users\josué\desktop\linkedlist\include\dlinkedlist.h
+	"DNode.h"
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470973175 c:\users\josué\desktop\linkedlist\include\dnode.h
+	"Node.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470973158 source:c:\users\josué\desktop\linkedlist\src\dnode.cpp
+	"DNode.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470975883 source:c:\users\josué\dropbox\estructuras\dlinkedlist\main.cpp
+	<iostream>
+	"DLinkedList.h"
+
+1470975115 c:\users\josué\dropbox\estructuras\dlinkedlist\include\dlinkedlist.h
+	"DNode.h"
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470973175 c:\users\josué\dropbox\estructuras\dlinkedlist\include\dnode.h
+	"Node.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470461622 c:\users\josué\dropbox\estructuras\dlinkedlist\include\node.h
+	<cstddef>
+
+1477969287 c:\users\josué\dropbox\estructuras\dlinkedlist\include\linkedlist.h
+	"Node.h"
+	<cstddef>
+
+1470975860 source:c:\users\josué\dropbox\estructuras\dlinkedlist\src\dlinkedlist.cpp
+	"DLinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470973158 source:c:\users\josué\dropbox\estructuras\dlinkedlist\src\dnode.cpp
+	"DNode.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470936946 source:c:\users\josué\dropbox\estructuras\dlinkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1470461642 source:c:\users\josué\dropbox\estructuras\dlinkedlist\src\node.cpp
+	"Node.h"
+	<cstddef>
+
