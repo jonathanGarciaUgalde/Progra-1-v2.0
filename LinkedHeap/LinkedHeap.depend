@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1538009367 source:/home/roy/LinkedHeap/main.cpp
+	<iostream>
+
+1538010465 source:/home/roy/LinkedHeap/src/Node.cpp
+	"Node.h"
+	<cstddef>
+
+1538010465 /home/roy/LinkedHeap/include/Node.h
+	<cstddef>
+
+1538010817 source:/home/roy/LinkedHeap/src/LinkedList.cpp
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1538010817 /home/roy/LinkedHeap/include/LinkedList.h
+	"Node.h"
+	<cstddef>
+
+1538126145 source:/home/roy/LinkedHeap/src/Block.cpp
+	"Block.h"
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1538126116 /home/roy/LinkedHeap/include/Block.h
+	"LinkedList.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
